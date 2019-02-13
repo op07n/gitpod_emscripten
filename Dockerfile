@@ -1,3 +1,3 @@
-FROM trzeci/emscripten-slim:latest
+FROM trzeci/emscripten:latest
 
 USER root
